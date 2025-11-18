@@ -16,7 +16,7 @@ A collection of useful resources, notes, and study materials for MCA students.
 
 📌 **Link 5** – [KTU MCA Resources](https://ktumca.github.io/)  
 
-📌 **Link 6** – [DAA](https://drive.google.com/drive/folders/1pmk8vf0YwLLmM7ncHnbN5FSNUBYTBV8U) 
+📌 **Link 6** – [DAA Materials](https://drive.google.com/drive/folders/1pmk8vf0YwLLmM7ncHnbN5FSNUBYTBV8U)
 
 ---
 
